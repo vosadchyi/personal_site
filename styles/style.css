@@ -1,0 +1,33 @@
+html {
+  background-color: rgb(255, 255, 255);
+}
+
+body {
+    font-family: 'PT Serif', serif;
+    font-size: 12px;
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 40px 10px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(241, 244, 247);
+}
+
+h1 {
+  font-size: 24px;
+  text-align: center;
+}
+
+#master-head {
+  color: blue
+}
+
+#master-head-name {
+  font-size: 24px;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  width: 150px;
+  opacity: 0.5;
+}
